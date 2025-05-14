@@ -15,4 +15,26 @@ O Projeto Arcturus nasceu com um objetivo claro: formar um especialista do futur
 **Início:** 13 de maio de 2025  
 **Responsável:** Evandro Bueno  
 **Mentoria:** ChatGPT (OpenAI)
+---
 
+## 🗺️ Etapas do Projeto Arcturus (Roadmap)
+
+| Etapa                        | Status       | Período Estimado        |
+|-----------------------------|--------------|--------------------------|
+| 🔹 Fundamentos Técnicos     | ✅ Concluindo | Maio - Julho de 2025     |
+| 🔹 Projetos Práticos        | ⏳ Em breve   | Agosto - Novembro 2025   |
+| 🔹 Portfólio Estratégico    | ⏳ Em breve   | Dezembro - Março 2026    |
+| 🔹 Posicionamento Profissional | 🔒 A definir  | Abril 2026 em diante     |
+
+---
+
+## ✅ Checklist de Progresso
+
+- [x] Criado e-mail profissional do projeto  
+- [x] Conta no GitHub criada  
+- [x] Repositório organizado em pastas  
+- [x] README profissional criado  
+- [ ] Instalar ferramentas no notebook pessoal  
+- [ ] Iniciar estudos com Python e Git  
+- [ ] Publicar primeiro projeto prático  
+- [ ] Concluir primeiro módulo de automação  
