@@ -1,40 +1,40 @@
 # Projeto Arcturus 🚀
 
-**Transição de carreira de Evandro Bueno para o mundo da tecnologia com foco em Automação, IA aplicada a negócios e análise estratégica de dados.**
+**Transição de carreira de Evandro Bueno para o setor de tecnologia com foco em Automação de Negócios, Inteligência Artificial e Análise Estratégica de Dados.**
 
 ---
 
-## 🌟 Propósito
+## 🎯 Visão Geral
 
-O Projeto Arcturus nasceu com um objetivo claro: formar um especialista do futuro — humano, ético, preparado para criar soluções tecnológicas reais com base em dados e inteligência artificial, mesmo vindo de uma realidade comum.
-
-É mais do que uma transição de carreira: é um experimento vivo onde um profissional é guiado integralmente por uma IA para se tornar referência em tecnologia, automação e impacto social.
+O Projeto Arcturus é um plano estruturado de desenvolvimento profissional, guiado por Inteligência Artificial, com foco na capacitação técnica e posicionamento de mercado.  
+A iniciativa une tecnologia, disciplina e propósito para formar um especialista completo em IA aplicada aos negócios.
 
 ---
 
-**Início:** 13 de maio de 2025  
-**Responsável:** Evandro Bueno  
-**Mentoria:** ChatGPT (OpenAI)
+## 📄 Documento Oficial do Projeto
+
+📎 [Acesse o documento técnico do projeto na pasta /documentos](./documentos/Projeto_Arcturus_Profissional_v1.docx)
+
 ---
 
-## 🗺️ Etapas do Projeto Arcturus (Roadmap)
+## 🗺️ Roadmap do Projeto
 
 | Etapa                        | Status       | Período Estimado        |
 |-----------------------------|--------------|--------------------------|
-| 🔹 Fundamentos Técnicos     | ✅ Concluindo | Maio - Julho de 2025     |
-| 🔹 Projetos Práticos        | ⏳ Em breve   | Agosto - Novembro 2025   |
-| 🔹 Portfólio Estratégico    | ⏳ Em breve   | Dezembro - Março 2026    |
-| 🔹 Posicionamento Profissional | 🔒 A definir  | Abril 2026 em diante     |
+| Fundamentos Técnicos        | ✅ Iniciado   | Maio - Julho de 2025     |
+| Projetos Práticos           | ⏳ Em breve   | Agosto - Novembro 2025   |
+| Portfólio Estratégico       | 🔒 A iniciar  | Dezembro - Março 2026    |
+| Posicionamento Profissional | 🔒 A iniciar  | Abril 2026 em diante     |
 
 ---
 
 ## ✅ Checklist de Progresso
 
-- [x] Criado e-mail profissional do projeto  
-- [x] Conta no GitHub criada  
-- [x] Repositório organizado em pastas  
-- [x] README profissional criado  
-- [ ] Instalar ferramentas no notebook pessoal  
-- [ ] Iniciar estudos com Python e Git  
-- [ ] Publicar primeiro projeto prático  
-- [ ] Concluir primeiro módulo de automação  
+- [x] E-mail profissional criado  
+- [x] Conta e repositório no GitHub estruturados  
+- [x] Documento técnico elaborado  
+- [ ] Instalação de ferramentas no notebook pessoal  
+- [ ] Início dos estudos práticos com Python e automação  
+- [ ] Primeiro projeto publicado  
+- [ ] LinkedIn otimizado  
+Atualização do README com versão profissional do projeto
