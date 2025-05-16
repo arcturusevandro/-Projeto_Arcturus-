@@ -37,4 +37,3 @@ A iniciativa une tecnologia, disciplina e propósito para formar um especialista
 - [ ] Início dos estudos práticos com Python e automação  
 - [ ] Primeiro projeto publicado  
 - [ ] LinkedIn otimizado  
-Atualização do README com versão profissional do projeto
