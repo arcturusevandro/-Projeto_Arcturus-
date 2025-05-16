@@ -11,9 +11,10 @@ A iniciativa une tecnologia, disciplina e propósito para formar um especialista
 
 ---
 
-## 📄 Documento Oficial do Projeto
+## 📄 Documentos Oficiais do Projeto
 
-📎 [Acesse o documento técnico do projeto na pasta /documentos](./documentos/Projeto_Arcturus_Profissional_v1.docx)
+📎 [Versão Técnica em .docx](./documentos/Projeto_Arcturus_Profissional_v1.docx)  
+📎 [Versão Profissional em PDF com Capa e Sumário](./documentos/Projeto_Arcturus_Profissional_com_Capa.pdf)
 
 ---
 
@@ -37,3 +38,4 @@ A iniciativa une tecnologia, disciplina e propósito para formar um especialista
 - [ ] Início dos estudos práticos com Python e automação  
 - [ ] Primeiro projeto publicado  
 - [ ] LinkedIn otimizado  
+Atualização final: inclusão do link para o PDF com capa
